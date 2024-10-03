@@ -426,5 +426,28 @@ Index the Data: Click the "Index Data" button to import the employee data from t
 Get Employee Count: Click the "Get Employee Count" button to retrieve and display the total number of employees indexed.
 ```
 ## OUTPUT:
+![image](https://github.com/user-attachments/assets/52e56013-7ad5-46ba-9b2e-356d817d3c81)
+![image](https://github.com/user-attachments/assets/d1209469-d67a-4a86-8e58-41cd16cdb697)
+![image](https://github.com/user-attachments/assets/a097d24d-59d1-455f-a290-d6aad4a3ebc6)
+![image](https://github.com/user-attachments/assets/5b26a80d-9ea5-44cb-8617-580074d19b97)
+![image](https://github.com/user-attachments/assets/006ff714-6c09-4978-9a84-445863897f52)
+![image](https://github.com/user-attachments/assets/14915588-732a-40c5-8b4e-fda54482abe4)
+    ![image](https://github.com/user-attachments/assets/f3f471f5-0538-4264-9377-7bc62fcebe5d)
+    ![image](https://github.com/user-attachments/assets/33e6e5e9-bf92-494a-8ceb-8d0a40df1ae3)
+    ![image](https://github.com/user-attachments/assets/0971c403-ff51-4448-949e-106e615ff11c)
+    ![image](https://github.com/user-attachments/assets/80a3e5f5-cc5b-48bc-b6c2-d4c175ec117b)
+    ![image](https://github.com/user-attachments/assets/4d40237e-4aca-4498-943e-4c12162fd37e)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
