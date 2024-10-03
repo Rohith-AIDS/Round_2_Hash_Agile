@@ -1,4 +1,14 @@
 # Round_2_Hash_Agile
+## Elastic Search Installation
+```
+Phase 1: Setting Up Elasticsearch and UI
+Install Elasticsearch
+Step 1: Download the Elasticsearch zip file.
+Step 2: Extract the contents.
+Step 3: Navigate to the bin folder and run elastic.bat.
+Step 4: Set up a username and password for Elasticsearch access.
+```
+
 ## Jupyter Code Python
 #!/usr/bin/env python
 # coding: utf-8
@@ -403,3 +413,18 @@ getDepFacet(v_phoneCollection)
 
 
 ```
+## Created UI Using Streamlit
+```
+Create the app.py file: Write your Streamlit code in a new file named app.py.
+Open your terminal: Navigate to the directory where app.py is located.
+Run the Streamlit command: Execute the command streamlit run app.py in the terminal.
+Access the application: Open your web browser and go to http://localhost:8501 to view your Streamlit app.
+Interact with the UI: Use the app features to manage employee data and perform searches.
+Upload the Employee CSV File: Use the file uploader in the Streamlit app to browse and select your CSV file.
+Create a Collection: Enter a name for the index (collection) and click the "Create Collection" button to set it up in Elasticsearch.
+Index the Data: Click the "Index Data" button to import the employee data from the CSV file into the specified collection.
+Get Employee Count: Click the "Get Employee Count" button to retrieve and display the total number of employees indexed.
+```
+## OUTPUT:
+
+
